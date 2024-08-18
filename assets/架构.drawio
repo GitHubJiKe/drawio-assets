@@ -200,7 +200,7 @@
         <mxCell id="ts5CFMZNAJqFByiF6o2_-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Adapter&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ts5CFMZNAJqFByiF6o2_-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Backend Service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ts5CFMZNAJqFByiF6o2_-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Server Side&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="707" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Client Side&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
