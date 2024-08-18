@@ -42,7 +42,7 @@
         <mxCell id="ts5CFMZNAJqFByiF6o2_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="ts5CFMZNAJqFByiF6o2_-7" target="ts5CFMZNAJqFByiF6o2_-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="330" />
+              <mxPoint x="780" y="360" />
               <mxPoint x="780" y="100" />
             </Array>
           </mxGeometry>
@@ -52,8 +52,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ts5CFMZNAJqFByiF6o2_-7" value="Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="ts5CFMZNAJqFByiF6o2_-7" value="Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="ts5CFMZNAJqFByiF6o2_-9" target="ts5CFMZNAJqFByiF6o2_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +88,14 @@
         <mxCell id="ts5CFMZNAJqFByiF6o2_-39" value="service function" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ts5CFMZNAJqFByiF6o2_-12">
           <mxGeometry x="-0.0529" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ts5CFMZNAJqFByiF6o2_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="ts5CFMZNAJqFByiF6o2_-11" target="ts5CFMZNAJqFByiF6o2_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ts5CFMZNAJqFByiF6o2_-55" value="action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ts5CFMZNAJqFByiF6o2_-54">
+          <mxGeometry x="-0.3652" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-11" value="Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -160,7 +168,12 @@
           <mxGeometry x="930" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="ts5CFMZNAJqFByiF6o2_-25" target="ts5CFMZNAJqFByiF6o2_-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="610" />
+              <mxPoint x="990" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-36" value="response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ts5CFMZNAJqFByiF6o2_-28">
           <mxGeometry x="-0.0547" y="1" relative="1" as="geometry">
@@ -195,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-29" value="Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="1150" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ts5CFMZNAJqFByiF6o2_-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Adapter&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="460" width="60" height="30" as="geometry" />
