@@ -109,8 +109,28 @@
         <mxCell id="4FRv2AJjElNeRstqnCj9-19" value="success" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4FRv2AJjElNeRstqnCj9-21" value="List Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4FRv2AJjElNeRstqnCj9-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4FRv2AJjElNeRstqnCj9-21" target="4FRv2AJjElNeRstqnCj9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRv2AJjElNeRstqnCj9-21" value="return one unique code" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRv2AJjElNeRstqnCj9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4FRv2AJjElNeRstqnCj9-36" target="4FRv2AJjElNeRstqnCj9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRv2AJjElNeRstqnCj9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4FRv2AJjElNeRstqnCj9-36" target="4FRv2AJjElNeRstqnCj9-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FRv2AJjElNeRstqnCj9-36" value="goto list page" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRv2AJjElNeRstqnCj9-38" value="List Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
